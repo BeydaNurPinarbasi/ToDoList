@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 70px;
+    background-color:rgb(255, 228, 195);        
+    
+}
+h1{
+    font-size:larger;
+    font-family:'Lucida Sans';
+}
+
+input {
+    
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 2px;
+    font-size: 10px;
+
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 30;
+   
+}
+
+
+li {
+    
+    font-size: 20 px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.completed {
+    text-decoration: line-through;
+
+    
+}
+
+button {
+    margin-left: 10px;
+    padding: 4px 5px;
+    font-size: 14px;
+    color: rgb(249, 249, 249);
+    background-color: rgb(245, 160, 224);
+    
+   
+}
